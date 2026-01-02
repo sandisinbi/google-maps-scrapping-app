@@ -7,19 +7,14 @@ This is a desktop application built for scraping data from Google Maps. It is de
 
 Follow these steps to install the application:
 
-1. Clone the repository:
 
-    ```bash
-    https://github.com/SeptiawanAjiP/google-maps-scrapping-app
-    ```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
     ```bash
     cd your-project
     ```
 
-3. Install dependencies:
+2. Install dependencies:
 
     ```bash
     npm install
